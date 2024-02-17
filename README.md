@@ -1,5 +1,6 @@
-#Spike Automation
-##Steps
+  # Spike Automation
+
+## Steps
 1. Add filename with address with .s extension.
 2. Add address of where you want to save <main> section of the code.
 3. Define filename of file to be saved.
